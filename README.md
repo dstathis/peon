@@ -1,2 +1,2 @@
-# peon
+# Peon
 Peon CI/CD Framework
